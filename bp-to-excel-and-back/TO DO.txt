@@ -1,0 +1,2 @@
+Update all files other than bp_splitter to treat BPS_BEFORE as a dictionary rather than a list.
+Also change BPS_AFTER to be a dictionary, so the code is more sound for correctness.
