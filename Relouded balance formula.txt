@@ -1,0 +1,13 @@
+Formula: DPS - Speed - Range - HP - Shield HP - Running cost - Unit value (m,e) - Vet rate - Modifiers
+
+Modifiers: Amphibious, Radar, AA/DF toggle, Stealth, Cloaking [when stationary], Jamming, Torps, Torp defense, Hover, Depth Charges, Sacrifice, Deployable, 
+Volatile, Omni, Repair, Reclaim, TMD, TM deflection, EMP, Stealth Field, Shield Field, Forced Targeting, Missile Defense?*, Capacity, Sonar, Shield Disruptor,
+Facory, Air Staging, Submersible, Nuke, Walks On Land, Shield boat
+
+---------------------------------------------------------------------------
+
+
+*Look into: Anti Sams? 
+
+
+Remove: lambda tech (replace with ?), mobile SMD, 
